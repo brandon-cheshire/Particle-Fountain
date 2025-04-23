@@ -1,5 +1,6 @@
 # Particle-Fountain
 
+![Example Image](fountain.png)
 Particle Fountain simulation using OpenGL/GLUT.
 
 ## to run
